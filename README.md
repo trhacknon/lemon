@@ -8,8 +8,8 @@
 
 # Running Lemon
 
-        $ git clone https://github.com/SxNade/Lemon
-        $ cd Lemon
+        $ git clone https://github.com/trhacknon/lemon
+        $ cd lemon
         $ chmod +x lemon
         
         $ ./lemon -h or ./lemon --help    {run to see other options}
@@ -18,7 +18,7 @@
 # On the Go one Liner
 
 ```
-curl https://raw.githubusercontent.com/SxNade/Lemon/main/lemon -o lemon ; chmod +x lemon ; ls -la lemon
+curl https://raw.githubusercontent.com/trhacknon/lemon/main/lemon -o lemon ; chmod +x lemon ; ls -la lemon
 ```
 
 # TIP
@@ -33,7 +33,7 @@ curl https://raw.githubusercontent.com/SxNade/Lemon/main/lemon -o lemon ; chmod 
 
 *same goes for bind shells*
 
-![lemon](https://github.com/SxNade/Lemon/blob/main/lemon.gif)
+![lemon](https://github.com/trhacknon/lemon/blob/main/lemon.gif)
 
 *Also keep in mind that you may have to press **enter** after performing a single check from menu*
 
